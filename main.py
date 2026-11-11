@@ -1,5 +1,5 @@
 #Write to st
-st="5dnec|ngneeg|f6d5d6d5ne6c5c6c."
+st=input("Music notation (must end in full stop character): ")#"5dnec|ngneeg|f6d5d6d5ne6c5c6c."
 
 import sys
 
