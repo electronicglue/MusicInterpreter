@@ -123,7 +123,7 @@ for i in st:
             modifier=True;
         case "a":
             if (natural or not (i in keySignature)):
-                end+= f"a_{{{octave}}}"
+                end+= f"a_{{{octave}}}" # ----------------------------MODIFY TO YOUR OWN USE CASE FREELY-----------------------------------------
             else:
                 end += f"a_{{{octave}f}}"
         case "b":
