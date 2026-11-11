@@ -6,6 +6,7 @@ To use: Run the file. Command line flags include "--PRINT_MORE"... and that's it
 Not to use: Don't run the file.
 
 # _________Guide_________:  #also attached in python
+IMPORTANT: music written must end in a full stop/period
 #	Note Types (persistent):
 	    / : half
 	    > : quarter
