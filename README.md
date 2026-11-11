@@ -15,7 +15,7 @@ IMPORTANT: music written must end in a full stop/period
 	    < : eighth
 	    - : sixteenth
 #	Key Signature Changes - Syntax:
-	    @(\[individual notes here, no delimiter]), use before notes
+	    @([individual notes here, no delimiter]), use before notes
 #	Octave Changes - Persistent:
 	    Digits 1-6 are for available octaves. May vary depending on the medium being exported to. Modify at your own discretion.
 #	Non-persistent symbols:
