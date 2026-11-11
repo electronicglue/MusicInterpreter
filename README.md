@@ -14,8 +14,7 @@ Not to use: Don't run the file.
 #	Key Signature Changes - Syntax:
 	    @(\[individual notes here, no delimiter]), use before notes
 #	Octave Changes - Persistent:
-   	Digits 1-6 are for available octaves. May vary depending on...
-     ... the medium being exported to.
+   		Digits 1-6 are for available octaves. May vary depending on the medium being exported to. Modify at your own discretion.
 #	Non-persistent symbols:
 	    = : mark a chord (use before a note)
 	    n : natural (use before)
