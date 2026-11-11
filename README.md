@@ -2,7 +2,7 @@
 Python command line single-file notation interpreter. 
 
 # Directions:
-To use: Run the file. Command line flags include "--PRINT_MORE"... and that's it.
+To use: Run the file. Command line flags include "--PRINT_MORE"... and that's it. <br>
 Not to use: Don't run the file.
 
 # _________Guide_________:  #also attached in python
